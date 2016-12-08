@@ -14,39 +14,10 @@
 
 <!DOCTYPE html>
 <html>
-
     <head>
-        <title>Title of the document</title>
-        <style>
-            .error { color:#d04544; background:#ffe9e9; }
-            .success2 { background:#fbf6e3; }
-            .box { width:407px; padding: 10px; border: solid 1px #cccccc;}
-
-            .spam, .ignored, .target, .meta, .headers, .title, .speed, .errors, .compare, .results,  .tables {
-                margin: 20px 0;
-                height: auto;
-                max-height: 600px;
-                min-height: 100px;
-                overflow-y: scroll;
-                overflow-x: hidden;
-                width: 100%;
-                padding: 20px;
-                border: solid 1px #ccc;
-            }
-
-            .wrapper {
-
-                margin-left: auto;
-                margin-right: auto;
-                width: 980px;
-            }
-            .wrapper h2 {
-                font-size: 15px;
-                font-weight: bold;
-            }
-        </style>
+        <title>SEO</title>
+        <link rel="stylesheet" href="/css/style.css">
     </head>
-
 <body>
 
     <div class="wrapper">
